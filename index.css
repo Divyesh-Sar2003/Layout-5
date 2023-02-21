@@ -3,15 +3,21 @@
     margin: 0px;
     padding: 0px;
 }
+body{
+    background-color: gray;
+    position: relative;
+}
 /* common css ends */
 /* section css start here */
 .first_main_col{
     color: white;
     background-color: rgba(243, 127, 59, 0.616);
 }
-
+.first_hr{
+    background-color: white;width: 80%;height: 2%;
+}
 .image_column{
-    background-image: url('https://www.google.com/imgres?imgurl=https%3A%2F%2Fthumbs.dreamstime.com%2Fb%2Fhands-computer-desk-using-laptop-rustic-wood-background-cup-tea-book-globe-glasses-53253551.jpg&imgrefurl=https%3A%2F%2Fwww.dreamstime.com%2Fphotos-images%2Flaptop.html&tbnid=0kZ_1nc04L87GM&vet=12ahUKEwiQ47r4iKb9AhVrBLcAHf80CbcQMyhNegUIARCSAg..i&docid=0TFl8WHIMTjlMM&w=800&h=533&q=laptop%20image&client=ubuntu&ved=2ahUKEwiQ47r4iKb9AhVrBLcAHf80CbcQMyhNegUIARCSAg');
+    background-image: url('');
     max-width: 100%;
     height: auto;
     background-repeat: no-repeat;
